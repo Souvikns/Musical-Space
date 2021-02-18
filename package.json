@@ -1,0 +1,25 @@
+{
+  "name": "tune-space",
+  "version": "1.0.0",
+  "description": "A CLI tool for downloading and uploading music build ontop of [IPFS](https://ipfs.io/);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souvikns/tune-space.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souvikns/tune-space/issues"
+  },
+  "homepage": "https://github.com/Souvikns/tune-space#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "i": "^0.3.6",
+    "npm": "^7.5.4"
+  }
+}
