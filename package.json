@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Souvikns/tune-space#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "commander": "^7.1.0",
     "i": "^0.3.6",
     "npm": "^7.5.4"
