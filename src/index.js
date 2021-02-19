@@ -9,6 +9,7 @@ program.version('0.0.1');
 program
     .option('-d, --download <filename>', "download a song")
     .option('-u, --upload <cid>', "upload a song life")
+    .option('-f, --find <music-name>', "Enter the name of the music to find it.")
 
 
 program.parse(process.argv);
